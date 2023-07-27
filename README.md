@@ -6,9 +6,9 @@ I am excited to share the project on JS Mart sales analysis, where I've created 
 JS mart’s sales data includes 2 tables .the first table(list of orders)contains the details of all the order ids , order dates , region , customer name , shipment date and mode. The second table contains a more details break down of orders like product name , sales , discount , profit , quantity of product ordered andcategory to which the product belongs.The sales data from the year 2017 -2020 is taken into consideration.
 
 
-Steps Involved in Creating the Interactive Dashboard for JS Mart:
+**Steps Involved in Creating the Interactive Dashboard for JS Mart:**
 
-Objective:
+#Objective:#
 
 Before diving into the dashboard, it is crucial to set a clear objective. In this analysis, I aimed to:
 
@@ -21,22 +21,22 @@ Determine which regions accounted for a large number of orders.
 
 Identify the segment (consumer, home office, corporate) with the highest sales contribution.
 
-Data Loading:
+#Data Loading:#
 
 The first step was loading the data from an Excel source into Power BI, ensuring a reliable foundation for the analysis.
 
 
-Data Visualization:
+#Data Visualization:#
 
 To effectively present the sales data, I utilized various chart types, and strategically placed cards to highlight key values and KPIs, capturing the attention of end-users.
 
 
-Data Slicing and Drill-Through:
+#Data Slicing and Drill-Through:#
 
 To allow users to explore the data further, I implemented slicers for order dates and shipment dates, enabling data filtering based on specific time periods. Additionally, drill-through filters were set up to allow end-users to delve deeper into the data, especially when analyzing customer purchase habits.
 
 
-Presenting Key Insights:
+#Presenting Key Insights:#
 
 Through the use of buttons and bookmarks, I presented the key insights gained from the analysis:
 
@@ -49,7 +49,7 @@ Approximately 54.3% of total orders originated from the central region, followed
 
 The consumer segment was the most substantial contributor to total sales, accounting for about 52.64%. Interestingly, the consumer segment's profit percentage increased over the three-year period, while the home-office segment experienced a 3% decline in profit.
 
-Conclusion:
+#Conclusion:#
 
 Based on the analysis, implementing the following key recommendations can strengthen JS Mart's market position:
 
