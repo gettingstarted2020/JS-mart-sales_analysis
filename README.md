@@ -1,4 +1,4 @@
-Unveiling the Power of Data: JS Mart Sales Analysis with Power BI
+#Unveiling the Power of Data: JS Mart Sales Analysis with Power BI#
 I am excited to share the project on JS Mart sales analysis, where I've created an interactive dashboard using MS Power BI. The analysis includes sales data from the years 2017 to 2020, providing valuable insights into JS Mart's performance over this period.
 
 JS mart’s sales data includes 2 tables .the first table(list of orders)contains the details of all the order ids , order dates , region , customer name , shipment date and mode. The second table contains a more details break down of orders like product name , sales , discount , profit , quantity of product ordered andcategory to which the product belongs.The sales data from the year 2017 -2020 is taken into consideration.
