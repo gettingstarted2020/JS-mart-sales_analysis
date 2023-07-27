@@ -1,4 +1,4 @@
-Unveiling the Power of Data: JS Mart Sales Analysis with Power BI
+**Unveiling the Power of Data: JS Mart Sales Analysis with Power BI**
 
 I am excited to share the project on JS Mart sales analysis, where I've created an interactive dashboard using MS Power BI. The analysis includes sales data from the years 2017 to 2020, providing valuable insights into JS Mart's performance over this period.
 
